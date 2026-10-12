@@ -156,5 +156,22 @@
     "create_error": "Post https://api.github.com/graphql: Forbidden",
     "required_followup": "Authorized GitHub connector: recheck duplicate head, then create draft PR using prepared body",
     "media_scope": "External media are owned upstream; blocked inspection remains a documented limitation, not a requirement to modify their services"
+  },
+  "submission_followup": {
+    "date": "2026-10-12",
+    "upstream_pr": "https://github.com/huggingface/audio-transformers-course/pull/253",
+    "upstream_reference_unchanged": true,
+    "quality": "passed",
+    "complete_invariants_sections": 50,
+    "translation_validator": "No missing sections - translation complete!",
+    "pip_check": "passed",
+    "notebooks_regenerated_and_schema_validated": 21,
+    "browser_and_build_repeated": false,
+    "external_media_validation": "earlier access limitation remains disclosed",
+    "documentation_delivery": "ready for maintainer review",
+    "merge_or_deployment": false,
+    "upstream_title_and_body": "published and read back",
+    "fork_pr_draft": false,
+    "upstream_pr_draft": false
   }
 }
